@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Future of sports at IST Austria 
+description: Working group for the future of sports at IST Austria: helping management on taking good decisions.
 ---
 
 Write to us!
