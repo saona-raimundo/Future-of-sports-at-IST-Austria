@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Future of sports at IST Austria
 
-You can use the [editor on GitHub](https://github.com/saona-raimundo/Future-of-sports-at-IST-Austria/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Current state
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To this date, IST owns the following sport facilities: a indoor gym, two tennis courts, a football field, an outdoor gym and a beach volleyball court. 
 
-### Markdown
+The two newest buildings (including sunstone) has no sport or cultural facilities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The current expansion plan until 2030 does not include any change to the current outdoor sport facilities. About existing indoor facilities, the expansion of the indoor gym has been discussed and postponed every year, for the last three years. About new facilities, it has been considered that some building, finished by 2030, should have some sport or cultural facility. No decisions about their purpose or dimensions have been made yet.
 
-```markdown
-Syntax highlighted code block
+Also, currently, there is no formal connection with any sport club in Klosterneuburg, although there is confirmed interest to have better communication with IST.
 
-# Header 1
-## Header 2
-### Header 3
+In this context, if a formal plan backed by interest of the current people at IST is presented to Construction and Maintenance, it will be seriously considered.
 
-- Bulleted
-- List
+## Suggestions
 
-1. Numbered
-2. List
+Suggestions for the questionnaire
 
-**Bold** and _Italic_ and `Code` text
+- Gym
+  - Dumbell up to 35
+  - Single arm bell up to 40
+  - Jumping rope
+  - Mainainance
+    - Ruuber is rotating (fix it or take it away)
+    - Right arm of running machine
+    - Boxing bag (and heavier)
+  - Olympic bar (full handle to fit more people or exercises)
+    - Check if plates fit before buying
+    - (Better grip)
+  - Single bar hanging, without rubber
+  - Rolling wheel
+  - Ellastic strings
+  - Ellastic rings
+  - Wooden parallels
+  - Mirrors
+  - Leg machines
+    - Leg press (new)
+    - Leg curl (Ankle to but)
+- Outdoors gym
+  - Removable floor or absorbing floor
+- Disc golf
+  - Portable basket
+- Badminton court
+- Beach volleyball court 
+  - Upgrade sand quality
+- Climbing wall
+- Multi-porpuse court
+- Maintanance
+  - Pool sticks (in error bar)
 
-[Link](url) and ![Image](src)
-```
+## About us
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Raimundo Saona
 
-### Jekyll Themes
+- Nick Machnik
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saona-raimundo/Future-of-sports-at-IST-Austria/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Vicente Luis Diaz Melian
 
-### Support or Contact
+- Josip Kukucka
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Nikola Zarevski
