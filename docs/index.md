@@ -1,5 +1,3 @@
-# Future of sports at IST Austria
-
 ## Current state
 
 To this date, IST owns the following sport facilities: a indoor gym, two tennis courts, a football field, an outdoor gym and a beach volleyball court. 
