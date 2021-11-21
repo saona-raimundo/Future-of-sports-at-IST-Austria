@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Current state
+description: How are sports today at IST?
 permalink: /current_state/
 ---
 
@@ -15,3 +16,15 @@ The current expansion plan until 2030 does not include any change to the current
 Also, currently, there is no formal connection with any sport club in Klosterneuburg, although there is confirmed interest to have better communication with IST.
 
 In this context, if a formal plan backed by interest of the current people at IST is presented to Construction and Maintenance, it will be seriously considered.
+
+
+
+## Relevant links
+
+### Social activities
+
+https://wiki.ist.ac.at/index.php/Social_activities_at_IST
+
+### Indoor gym
+
+https://wiki.ist.ac.at/index.php/Fitness_center_on_campus_&_sports_equipment_to_borrow
