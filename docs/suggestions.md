@@ -7,8 +7,6 @@ permalink: /suggestions/
 
 ## Suggestions for the questionnaire
 
-Suggestions for the questionnaire
-
 - Gym
   - Dumbell up to 35
   - Single arm bell up to 40
@@ -40,3 +38,9 @@ Suggestions for the questionnaire
 - Multi-porpuse court
 - Maintanance
   - Pool sticks (in error bar)
+
+## Survey possibilities
+
+### Typeform
+https://www.typeform.com/
+
