@@ -1,3 +1,10 @@
+---
+layout: default
+title: Log
+description: What have we done?
+permalink: /log/
+---
+
 # 2021-11-28
 
 Second meeting.
@@ -36,19 +43,21 @@ Second meeting.
     - Send suggestions (specially to Vicente)
 - Nick or Nikola?
   - [ ] Think about the poster around IST
-    - Where to put them?
-    - Nice design
-    - Link/QR to the survey
-    - Images
-    - How to actually print and paste them? 
-
-
-
-
+    - Should have
+      - Link/QR to the survey
+      - Some image
+    - Questions
+      - Do I know of a poster that I really liked and could use as inspiration? 
+      - What are the characteristic features I liked the most?
+      - Where to put them?
+      - How to actually print and paste them? 
+      - Now that we are in lockdown, should I design a printable and a digital version?
 
 # 2021-11-11
 
-First meeting. 
+First meeting.
+
+![Whiteboard](/images/2021-11-11.jpg)
 
 ## Attendees
 

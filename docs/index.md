@@ -13,3 +13,5 @@ sports_working_group (at) lists.ist.ac.at
 ## <a href="{{site.baseurl}}/suggestions/"> Suggestions </a> 
 
 ## <a href="{{site.baseurl}}/about_us/"> About us </a>
+
+## <a href="{{site.baseurl}}/log/">Log</a>
