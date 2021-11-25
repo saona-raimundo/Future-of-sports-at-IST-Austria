@@ -3,11 +3,12 @@ layout: default
 title: Current state
 description: How are sports today at IST?
 permalink: /current_state/
+date: 2011-11-25
 ---
 
 ## Current state
 
-To this date, IST owns the following sport facilities: a indoor gym, two tennis courts, a football field, an outdoor gym and a beach volleyball court. 
+To this date, IST owns the following sport facilities: a indoor gym, two tennis courts, a football field, an outdoor gym and a beach volleyball court. There are some social facilities as well (table tennis, table soccer, among others).
 
 The two newest buildings (including sunstone) has no sport or cultural facilities.
 
