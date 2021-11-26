@@ -14,6 +14,6 @@ sports_working_group (at) lists.ist.ac.at
 
 ## <a href="{{site.baseurl}}/our_plan/">Our Plan</a> (step by step)
 
-## <a href="{{site.baseurl}}/about_us/">About us</a>
+## <a href="{{site.baseurl}}/about_us/">About us</a> (meet the team)
 
 ## <a href="{{site.baseurl}}/log/">Log</a> (all we have done)
