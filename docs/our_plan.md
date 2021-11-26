@@ -19,16 +19,17 @@ date: 2011-11-25
 
 ### Gather suggestions
 
-The survey contains
+On the survey,
 
-- Summary text
-- Optional carrousel (images) with examples
-- Text for suggestions
+- Separation on new facilities and improvement to current ones
+- Separation of indoors and outdoors
+- Optional collage with examples to motivate people
+- Input text field for suggestions
 
-Check before sending with
+Check before sending it with
 
-- Rebecca Morse
-- Stefan Hipfinger
+- Rebecca Morse (ask for opinions)
+- Stefan Hipfinger (simply inform)
 
 ### Make a questionnaire
 
@@ -36,7 +37,7 @@ Check before sending with
 
 Wishlist
 
-- immediate feedback after sending their answers
+- Immediate feedback after sending their answers
 
 ### Build a plan
 

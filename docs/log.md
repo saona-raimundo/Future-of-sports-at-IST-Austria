@@ -5,7 +5,101 @@ description: What have we done?
 permalink: /log/
 ---
 
-# 2021-11-28
+# 2021-11-26
+
+Designing suggestion survey
+
+## Attendees
+
+- Raimundo Saona
+- Vicente Diaz
+- Nikola Zarevski
+- Josip Kukucka
+
+## New information
+
+- Construction of the field
+  - The road built on the field is permanent 
+  - It was made by construction and Maintenance
+  - There are no more changes planned
+- Suggestion survey prototype ([live prototype](https://docs.google.com/forms/d/e/1FAIpQLSfkcSAFDvPXLPmMQ1q8Xk3hdD6l7l_IPOOHeIYPJ9CW5kZrqw/viewform))
+
+![Survey prototype](/images/2021-11-26-survey_prototype.png)
+
+- Poster prototype
+
+## Conclusions
+
+### Suggestions survey 
+
+#### Structure
+
+- One opening question about what does the person want to help with
+  - Options:
+    - New facilities
+    - Improvement to current facillities
+- One, or two surveys follow.
+  - On each survey there are two questions: Indoors and Outdoors
+  - Each question shall have an option to see inspirational images
+- Finish with some feedback
+
+#### Design
+
+- More pictures
+  - All images should be with creative permission
+  - Use collage, instead of a carrousel 
+
+#### Observations
+
+- Do not focus too much on sports we can already play (for the example images)
+
+- Lights and water for the field are examples for improvement of existing facilities
+- Social or cultural activities are deliberately left out
+  - There shall be a remark at the beginning and/or end
+- Let's make it so that people read the least possible
+  - Questions should ideally not need any description 
+- Introduction videos are allowed only if it helps clarity and simpleness
+
+#### Technicalities
+
+- Limit the input size in free text fields
+- Can we have immediate feedback? (number of answers already, answers missing)
+  - Nikola says yes
+- Images have to be optional
+- Grey text on unanswered question shall be useful
+
+### Posters: dissemination of survey
+
+#### Physical version
+
+- Add simple illustration of people at sports
+- QR is great
+- We will have it only for the second survey (ranking)
+
+#### Online version
+
+- Allows a bit more of text
+- We can look into it later
+
+### Campus update: A formal note
+
+- More pressure on management ;)
+- Objective: Make a formal statement (as opposed to leading people to the survey)
+
+## Tasks
+
+- Nikola & Vicente
+  - Continue designing the survey
+  - Ask for feedback whenever there are new drafts (via email) 
+- Nick, Rai, Josip
+  - Send images for the surveys
+  - Remember about Creative common license (easy to do in Google)
+- Josip
+  - Ask campus update about adding a note
+
+
+
+# 2021-11-18
 
 Second meeting.
 

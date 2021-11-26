@@ -16,9 +16,7 @@ The current expansion plan until 2030 does not include any change to the current
 
 Also, currently, there is no formal connection with any sport club in Klosterneuburg, although there is confirmed interest to have better communication with IST.
 
-In this context, if a formal plan backed by interest of the current people at IST is presented to Construction and Maintenance, it will be seriously considered.
-
-
+To convince the management to consider our requests, a formal plan backed by interest of the current people at IST should be developed and submitted to construction.
 
 ## Relevant links
 
