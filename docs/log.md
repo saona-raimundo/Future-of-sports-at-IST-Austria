@@ -28,6 +28,10 @@ Designing suggestion survey
 
 - Poster prototype
 
+![Poster physical](/images/2021-11-26-poster_physical.png)
+
+![Poster online](/images/2021-11-26-poster_online.png)
+
 ## Conclusions
 
 ### Suggestions survey 
