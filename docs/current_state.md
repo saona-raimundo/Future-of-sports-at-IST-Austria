@@ -20,10 +20,6 @@ To convince the management to consider our requests, a formal plan backed by int
 
 ## Relevant links
 
-### Social activities
+### Facilities
 
-https://wiki.ist.ac.at/index.php/Social_activities_at_IST
-
-### Indoor gym
-
-https://wiki.ist.ac.at/index.php/Fitness_center_on_campus_&_sports_equipment_to_borrow
+https://construction.pages.ist.ac.at/our-campus/
