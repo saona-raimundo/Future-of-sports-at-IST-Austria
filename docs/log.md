@@ -5,6 +5,14 @@ description: What have we done?
 permalink: /log/
 ---
 
+# # 2021-12-03 - present
+
+Iterating over suggestion survey
+
+Survey: [Future of sports at IST](https://docs.google.com/forms/d/e/1FAIpQLSfkcSAFDvPXLPmMQ1q8Xk3hdD6l7l_IPOOHeIYPJ9CW5kZrqw/viewform?usp=sf_link)
+
+## Discussions
+
 # 2021-11-26
 
 Designing suggestion survey
@@ -34,7 +42,7 @@ Designing suggestion survey
 
 ## Conclusions
 
-### Suggestions survey 
+### Suggestions survey
 
 #### Structure
 
@@ -58,10 +66,15 @@ Designing suggestion survey
 - Do not focus too much on sports we can already play (for the example images)
 
 - Lights and water for the field are examples for improvement of existing facilities
+
 - Social or cultural activities are deliberately left out
+  
   - There shall be a remark at the beginning and/or end
+
 - Let's make it so that people read the least possible
+  
   - Questions should ideally not need any description 
+
 - Introduction videos are allowed only if it helps clarity and simpleness
 
 #### Technicalities
@@ -100,8 +113,6 @@ Designing suggestion survey
   - Remember about Creative common license (easy to do in Google)
 - Josip
   - Ask campus update about adding a note
-
-
 
 # 2021-11-18
 
@@ -195,6 +206,7 @@ First meeting.
 Suggestions for the questionnaire
 
 - Gym
+  
   - Ball bell up to 35
   - Single arm bell up to 40
   - Jumping rope
@@ -206,13 +218,19 @@ Suggestions for the questionnaire
   - Ellastic strings
   - Ellastic rings
   - Wooden parallels
+
 - Outdoors gym
+  
   - Removable floor
+
 - Disc golf
+  
   - Portable basket
+
 - Badminton court
 
 - volleyball court 
+  
   - Upgrade sand quality
 
 - Climbing wall
