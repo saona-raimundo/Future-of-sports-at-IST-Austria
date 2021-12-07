@@ -13,6 +13,20 @@ Survey: [Future of sports at IST](https://docs.google.com/forms/d/e/1FAIpQLSfkcS
 
 ## Discussions
 
+### Examples
+
+- "Do you want to have visual inspiration?"
+  
+  - Do you want to see some examples?
+  
+  - Do you want visual inspiration to help you?
+
+- Images for new indoor activities
+  
+  - Do we want to show more images?
+  
+  - Are they too many?
+
 # 2021-11-26
 
 Designing suggestion survey
