@@ -5,9 +5,74 @@ description: What have we done?
 permalink: /log/
 ---
 
+---
+
+# 2021-12-10
+
+Finishing [suggestion survey](https://docs.google.com/forms/d/e/1FAIpQLSfkcSAFDvPXLPmMQ1q8Xk3hdD6l7l_IPOOHeIYPJ9CW5kZrqw/viewform?usp=sf_link).
+
+## Attendees
+
+- Josip Kukucka
+- Nikola Zarevski
+- Nick Machnik
+- Raimundo Saona
+- Vicente Diaz
+
+## New information
+
+- Beta testers
+  
+  - Rebecca is ready to get the survey
+
+- Survey platform
+  
+  - Now that we have a template, shall we do it in a IST platform?
+    
+    - IT team has some options
+      
+      - they offer Ninkaforms (wordpress plugin) and the survey module of moodle.
+      
+      - if we want to use them, we should state which data we want to 
+        collect, as they're both not suitable for data related to the GPDR.
+
+## Conclusions
+
+- Sending date
+  
+  - Suggestion survey
+    
+    - Start: ~14/December/2021
+    
+    - Reminder: ~10/January/2022
+    
+    - End: ~18/January/2022
+
+## Tasks
+
+- Raimundo
+  
+  - Re-word the text in the survey
+    
+    - Introduction text
+    
+    - Question for images
+  
+  - Send survey to Rebecca, beta-tester
+
+- Nikola
+  
+  - Include indoor football in collage
+
+- Everyone
+  
+  - If possible, send the survey to someone to be beta tester
+  
+  - Keep in mind ranking questions for the next survey and share ideas
+
 --------
 
-# 2021-12-03 - present
+# 2021-12-03
 
 Iterating over suggestion survey
 
@@ -28,17 +93,6 @@ Survey: [Future of sports at IST](https://docs.google.com/forms/d/e/1FAIpQLSfkcS
   - Do we want to show more images?
   
   - Are they too many?
-
-### Survey platform
-
-- Now that we have a template, shall we do it in a IST platform?
-  
-  - IT team has some options
-    
-    - they offer Ninkaforms (wordpress plugin) and the survey module of moodle.
-    
-    - if we want to use them, we should state which data we want to 
-      collect, as they're both not suitable for data related to the GPDR.
 
 ------
 
