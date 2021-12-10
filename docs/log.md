@@ -5,7 +5,9 @@ description: What have we done?
 permalink: /log/
 ---
 
-# # 2021-12-03 - present
+--------
+
+# 2021-12-03 - present
 
 Iterating over suggestion survey
 
@@ -26,6 +28,19 @@ Survey: [Future of sports at IST](https://docs.google.com/forms/d/e/1FAIpQLSfkcS
   - Do we want to show more images?
   
   - Are they too many?
+
+### Survey platform
+
+- Now that we have a template, shall we do it in a IST platform?
+  
+  - IT team has some options
+    
+    - they offer Ninkaforms (wordpress plugin) and the survey module of moodle.
+    
+    - if we want to use them, we should state which data we want to 
+      collect, as they're both not suitable for data related to the GPDR.
+
+------
 
 # 2021-11-26
 
@@ -128,6 +143,8 @@ Designing suggestion survey
 - Josip
   - Ask campus update about adding a note
 
+---
+
 # 2021-11-18
 
 Second meeting.
@@ -176,6 +193,8 @@ Second meeting.
       - How to actually print and paste them? 
       - Now that we are in lockdown, should I design a printable and a digital version?
 
+---
+
 # 2021-11-11
 
 First meeting.
@@ -214,6 +233,8 @@ First meeting.
   - [ ] Contact sports mailing lists
 - Rai
   - [ ] Contact Stefan Hipfinger <stefan.hipfinger@ist.ac.at> and confirm current state of sports at IST
+
+---
 
 # 2011-11-4
 
