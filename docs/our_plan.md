@@ -39,6 +39,6 @@ Wishlist
 
 - Immediate feedback after sending their answers
 
-### Build a plan
+### Build a formal proposal
 
 ??
