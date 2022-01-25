@@ -6,11 +6,16 @@ description: Working group for the future of sports at IST Austria: helping mana
 
 ![Banner: Help us shape the... Future of sports at IST](/images/2021-1126-banner.jpg)
 
+Currently, we are working towards the following objective:
+<center>
+Present a formal proposal for the improvement of sports facilities at ISTA.
+</center>
+
 ## Write to us!
 
 sports_working_group (at) lists.ist.ac.at
 
-## <a href="{{site.baseurl}}/current_state/">Current state</a> (of sports at IST)
+## <a href="{{site.baseurl}}/current_state/">Current state</a> (of sports at ISTA)
 
 ## <a href="{{site.baseurl}}/suggestions/">Suggestions</a> (people's wishes)
 
@@ -19,3 +24,4 @@ sports_working_group (at) lists.ist.ac.at
 ## <a href="{{site.baseurl}}/about_us/">About us</a> (meet the team)
 
 ## <a href="{{site.baseurl}}/log/">Log</a> (all we have done)
+
