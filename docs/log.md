@@ -25,6 +25,13 @@ We appeared today in Campus update! Get your copy from [the repository](https://
 
 ---
 
+# 2021-12-17
+
+[New suggestion survey](
+https://docs.google.com/forms/d/e/1FAIpQLSedFhLtQS6odTIQko14jg_Pqy6bDEnzUX9QIH2GZ5PCcfAV6g/viewform ) ready to be sent out!
+
+---
+
 # 2021-12-10
 
 Finishing [suggestion survey](https://docs.google.com/forms/d/e/1FAIpQLSfkcSAFDvPXLPmMQ1q8Xk3hdD6l7l_IPOOHeIYPJ9CW5kZrqw/viewform?usp=sf_link).

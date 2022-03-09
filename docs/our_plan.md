@@ -17,21 +17,13 @@ date: 2011-11-25
 - Build a plan
   - Present concrete important changes to management
 
-### Gather suggestions
+### Gather suggestions (in progress)
 
-On the survey,
+We made [this survey](), sent it out for people to fill and [there are the answers]()!
 
-- Separation on new facilities and improvement to current ones
-- Separation of indoors and outdoors
-- Optional collage with examples to motivate people
-- Input text field for suggestions
 
-Check before sending it with
 
-- Rebecca Morse (ask for opinions)
-- Stefan Hipfinger (simply inform)
-
-### Make a questionnaire
+### Make a ranking questionnaire (todo)
 
 ??
 
@@ -39,6 +31,6 @@ Wishlist
 
 - Immediate feedback after sending their answers
 
-### Build a formal proposal
+### Build a formal proposal (todo)
 
 ??
