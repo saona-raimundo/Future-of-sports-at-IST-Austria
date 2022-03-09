@@ -7,6 +7,24 @@ permalink: /log/
 
 ---
 
+# 2022-03-09
+
+Started to process answers!
+They are available in this document if anyone wants to check them out.
+
+We will have soon a summary to share.
+
+---
+
+# 2021-12-27
+
+We appeared today in Campus update! Get your copy from [the repository](https://wiki.ist.ac.at/index.php/Campus_Update).
+
+![Campus update calling for recommendation suvey](/images/2022-01-27-campus_update.png)
+
+
+---
+
 # 2021-12-10
 
 Finishing [suggestion survey](https://docs.google.com/forms/d/e/1FAIpQLSfkcSAFDvPXLPmMQ1q8Xk3hdD6l7l_IPOOHeIYPJ9CW5kZrqw/viewform?usp=sf_link).
