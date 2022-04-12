@@ -22,3 +22,5 @@ and [join the mailing list "sports_working_group"](https://icp.ist.ac.at/manage/
 - Josip Kukucka
 
 - Nikola Zarevski
+
+- Maayan Levy

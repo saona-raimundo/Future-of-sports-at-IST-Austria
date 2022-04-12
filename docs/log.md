@@ -7,10 +7,16 @@ permalink: /log/
 
 ---
 
+# 2022-04-11
+
+
+
+---
+
 # 2022-03-09
 
 Started to process answers!
-They are available in this document if anyone wants to check them out.
+They are [available in this document](/documents/Suggestions-responses.html) if anyone wants to check them out.
 
 We will have soon a summary to share.
 
@@ -28,7 +34,7 @@ We appeared today in Campus update! Get your copy from [the repository](https://
 # 2021-12-17
 
 [New suggestion survey](
-https://docs.google.com/forms/d/e/1FAIpQLSedFhLtQS6odTIQko14jg_Pqy6bDEnzUX9QIH2GZ5PCcfAV6g/viewform ) ready to be sent out!
+https://docs.google.com/forms/d/e/1FAIpQLSedFhLtQS6odTIQko14jg_Pqy6bDEnzUX9QIH2GZ5PCcfAV6g/viewform) ready to be sent out!
 
 ---
 
