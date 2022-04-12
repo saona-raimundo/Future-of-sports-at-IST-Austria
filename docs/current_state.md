@@ -18,7 +18,14 @@ Also, currently, there is no formal connection with any sport club in Klosterneu
 
 To convince the management to consider our requests, a formal plan backed by interest of the current people at IST should be developed and submitted to construction.
 
-## Relevant links
+--- 
+This situation has been confirmed by Stefan Hipfinger (stefan.hipfinger@ist.ac.at), Head of Div Construction & Maintenance on 2021-11.
+
+## Resources
+
+### People
+
+- Stefan Hipfinger (stefan.hipfinger@ist.ac.at), Head of Div Construction & Maintenance.
 
 ### Facilities
 

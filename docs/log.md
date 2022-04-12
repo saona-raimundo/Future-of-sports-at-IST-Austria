@@ -9,14 +9,84 @@ permalink: /log/
 
 # 2022-04-11
 
+We have a preliminary analysis of the questionnaire survey and started thinking about the rating survey.
 
+## Answers analysis
+
+There were a total of 152 answers.
+
+### General impressions
+
+- Requests can be clearly classified in short-term and long-term.
+	- This is independent of requests for new things or maintenance of equipment.
+- People have very concrete ideas of what they want, as opposed of just wanting a "sport facility".
+- It is easy to identify popular requests.
+- Some requests are already solved by existing facilities.
+	- There is a clear need of better internal communication.
+
+### Loose statistics
+
+The following are not exact numbers, but may give an idea of the general direction of requests.
+
+25~35% of people recommended asking for:
+- Larger gym
+- Multi-purpose indoor court
+- Swimming pool
+
+15~25% of people recommended asking for:
+- Bouldering
+- Lights and toilet for the field
+- Maintenance and acquisition of gym equipment 
+
+5~15% of people recommended asking for:
+- More (and better) showers on campus
+- Accessibility for non-ISTA employee to sports facilities
+- Basketball
+- Yoga and Pilates space
+- Tennis! (internal communications should be strengthen)
+- More professional table tennis
+- Buy new pool sticks
+- Martial arts space
+- Running tracks through campus
+- Exercise suggestions in the outdoor gym
+- Ice-skating
+
+1~5% of people recommended asking for:
+- Darts
+- Sauna
+- Dancing place
+- Better maintenance of the field 
+- Marking a frisbee field
+- Archery
+- Parkour park
+- Reimbursement of sport expenses in some place in Vienna  
+
+## Ranking survey
+
+- Short vs long term solutions should be separated.
+- There should be a way to convey 
+	- "minimum requirements"
+		- Pool
+			- An olympic pool or just for children?
+		- Lights for the field
+			- Only one lamp or at least three?
+	- (Personal) Importance or priority
+
+## Tasks
+
+- Raimundo
+	- Ask for space in the Spring festival for promoting sports at ISTA.
+- Raimundo and Maayan
+	- Contact administration and ask 
+		- what information out of the surveys is most useful for them?
+		- Are there constrains so we do not ask for impossible things in the questionnaire?
 
 ---
 
 # 2022-03-09
 
 Started to process answers!
-They are [available in this document](/documents/Suggestions-responses.html) if anyone wants to check them out.
+They are [available in this document](/documents/Suggestions-responses.html) if anyone wants to check them out. There were a total of 152 answers.
 
 We will have soon a summary to share.
 
