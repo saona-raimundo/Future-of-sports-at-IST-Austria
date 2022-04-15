@@ -7,6 +7,54 @@ permalink: /log/
 
 ---
 
+# 2022-04-15
+
+Meeting with C&M and Communications team at ISTA.
+Very good reception of survey and simple next actions to take.
+
+## From C&M
+
+- Gym has been a proposal for the last 3 years
+	- It has not been approved by the management. 
+	- The recommendation survey is a valuable resource to make a more convincing request this year, 2022. 
+- Budget requests and action plans are sent to the management at the end of summer.
+
+## From Communications
+
+- Campus services is the contact point for many of our issues.
+- We should have a more pro-active approach contacting campus services.
+	- For example, if a poster with contact information is needed in the gym, then let's propose it to campus services.
+
+## Practical solutions
+
+There were some suggestions that should be canalized as follows.
+
+### Maintenance of gym equipment
+
+- Campus Services is also in charge of the maintenance of our gym. 
+- The gym is serviced once a year, if there are additional problems we will have them fixed by our external company “Techno Gym”. 
+- If you notice problems/defects please inform us either by sending an email to campus.services@ist.ac.at or to lydia.dussmann@ist.ac.at.
+
+### Requesting new equipment
+
+- Forward requests to some association
+	- Students, postdocs or work council
+
+### Making sport-related announcements
+
+- Writing an email to include information in the campus update
+
+### Tennis on campus
+
+- Campus Services is in charge of tennis. 
+- If you need further information you can find it here:  https://wiki.ist.ac.at/index.php/Tennis_on_campus 
+- The tennis Club OBSV plans to open the tennis courts on May 7, 2022. 
+- This will be announced  in the campus update. 
+- If you would like to get regular information about the Tennis on campus, please sign up for the mailing list tennis-join@lists.ist.ac.at. 
+- CS also sends a list of the current tennis players to the tennis club every year, so please send also an email to lydia.dussmann@ist.ac.at, she will add you to this list.
+
+---
+
 # 2022-04-11
 
 We have a preliminary analysis of the questionnaire survey and started thinking about the rating survey.
