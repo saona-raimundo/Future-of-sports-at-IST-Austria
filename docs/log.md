@@ -5,6 +5,17 @@ description: What have we done?
 permalink: /log/
 ---
 
+--- 
+
+# 2022-03-09
+
+We have analyzed the questionnaire answers.
+They are [available in this document](/documents/SportIST_AllReplies_summary.xhtml) if anyone wants to check them out. 
+
+There were a total of 151 participants.
+
+We sent it to C&M and will ask to be published on the next campus update.
+
 ---
 
 # 2022-04-15
