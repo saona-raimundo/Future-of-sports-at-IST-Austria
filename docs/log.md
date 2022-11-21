@@ -7,6 +7,17 @@ permalink: /log/
 
 --- 
 
+# 2022-06-09
+
+Construction & Maintenance talked with Management about the results of the survey and the first idea of expanding the gym. 
+
+Before a concrete answer to the petitions, they received the order to make a comparison with other institutes about:
+- size,
+- service,
+- costs, and 
+- access to gym. 
+Elke (Head of Campus Service) is now in charge of contacting several other institutions about their offers.
+
 # 2022-03-09
 
 We have analyzed the questionnaire answers.
