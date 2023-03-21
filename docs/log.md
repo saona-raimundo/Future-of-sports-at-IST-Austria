@@ -7,6 +7,30 @@ permalink: /log/
 
 --- 
 
+# 2023-03-21
+
+We wrote to Campus Update to include the following note.
+
+	- Future of Sports at ISTA - news
+	In the institute-wide survey at the end of 2021
+	we had 151 participants giving 302 suggestions 
+	on sports development at ISTA. We heard you loud and clear. 
+	The top three suggestions are:
+	1. Better gym (44%)
+	2. New multi-sport court (24%)
+	3. New swimming pool (19%)
+	It is time to act! For the fifth year in a row, 
+	C&M will give a detailed plan for expanding the gym to Management.
+
+Let's see what they onclude!
+
+
+# 2023-03-14
+
+After many emal exchanges, we finally got the new that ISTA employees were asked by the MAnagement to present a plan on how to expand the gym and the associated costs of doing so. In the near future, a plan will be presented to the president. For now, the plan includes more devices and renovation of washrooms.
+
+No other information has been recovered from our contact with ISTA.
+
 # 2022-06-09
 
 Construction & Maintenance talked with Management about the results of the survey and the first idea of expanding the gym. 
