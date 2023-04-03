@@ -7,6 +7,124 @@ permalink: /log/
 
 --- 
 
+# 2023-04-03
+
+After conversations with the dean (Eva), and her conversations with Management about improving communication at ISTA, she requested a summary of what we did.
+
+## Summary
+
+We summarized our progress to the dean (Eva).
+
+	# 2023-03-23
+
+	A summary of the answers of the survey were published in the campus update.
+	1. Better gym (44%)
+	2. New multi-sport court (24%)
+	3. New swimming pool (19%)
+ 
+	# 2022-06-09
+
+	Construction & Maintenance talked with Management about the results of the survey and the first idea of expanding the gym. 
+
+	# 2022-04-15
+
+	Meeting with C&M and Communications team at ISTA.
+	Very good reception of survey and simple next actions to take.
+
+	# 2022-04-11
+
+	We analyzed the answers of the survey.
+
+	## Answers analysis
+
+	There were a total of 152 answers.
+
+	### General impressions
+
+	- Requests can be clearly classified in short-term and long-term.
+		- This is independent of requests for new things or maintenance of equipment.
+	- People have very concrete ideas of what they want, as opposed of just wanting a "sport facility".
+	- It is easy to identify popular requests.
+	- Some requests are already solved by existing facilities.
+		- There is a clear need of better internal communication.
+
+	### Loose statistics
+
+	The following are not exact numbers, but may give an idea of the general direction of requests.
+
+	25~35% of people recommended asking for:
+	- Larger gym
+	- Multi-purpose indoor court
+	- Swimming pool
+
+	15~25% of people recommended asking for:
+	- Bouldering
+	- Lights and toilet for the field
+	- Maintenance and acquisition of gym equipment 
+
+	5~15% of people recommended asking for:
+	- More (and better) showers on campus
+	- Accessibility for non-ISTA employee to sports facilities
+	- Basketball
+	- Yoga and Pilates space
+	- Tennis! (internal communications should be strengthen)
+	- More professional table tennis
+	- Buy new pool sticks
+	- Martial arts space
+	- Running tracks through campus
+	- Exercise suggestions in the outdoor gym
+	- Ice-skating
+
+	1~5% of people recommended asking for:
+	- Darts
+	- Sauna
+	- Dancing place
+	- Better maintenance of the field 
+	- Marking a frisbee field
+	- Archery
+	- Parkour park
+	- Reimbursement of sport expenses in some place in Vienna  
+	
+	# 2022-04-09
+
+	The answers to the survey are available at https://saona-raimundo.github.io/Future-of-sports-at-IST-Austria/documents/Suggestions-responses.html
+	There were a total of 152 answers.
+	
+	# 2021-12-27
+	
+	The survey was announced in campus update too.
+	
+	# 2021-12-17
+	
+	The campus-wide suggestion survey we sent is the following.
+	https://raw.githubusercontent.com/saona-raimundo/Future-of-sports-at-IST-Austria/main/docs/documents/Suggestions%20questionnaire.pdf
+	
+	We wrote emails to everyone and put posters through the campus.
+	
+	This survey was designed during the previous two months, with close contact to C&M, GSA and Communications at ISTA.
+
+# 2023-03-23
+
+A summary of the answers of the survey were published in the campus update.
+
+![Campus update summary of answers](/images/2023-03-23-campus_update.png)
+
+Since 2021, the "Future of Sports" working
+group aims to improve sports at ISTA. At the
+end of 2021, an institute-wide survey with 151
+participants lead to 302 suggestions for the
+improvement of ISTA’s sports facilities. We
+heard you loud and clear. The top three
+suggestions are:
+1. Better gym (44%)
+2. New multi-sport court (24%)
+3. New swimming pool (19%)
+It is time to act! For the fifth year in a row,
+C&M will give a detailed plan for expanding the
+gym to Management.
+
+---
+
 # 2023-03-21
 
 We wrote to Campus Update to include the following note.
@@ -22,12 +140,12 @@ We wrote to Campus Update to include the following note.
 	It is time to act! For the fifth year in a row, 
 	C&M will give a detailed plan for expanding the gym to Management.
 
-Let's see what they onclude!
+Let's see what they include!
 
 
 # 2023-03-14
 
-After many emal exchanges, we finally got the new that ISTA employees were asked by the MAnagement to present a plan on how to expand the gym and the associated costs of doing so. In the near future, a plan will be presented to the president. For now, the plan includes more devices and renovation of washrooms.
+After many emal exchanges, we finally got the new that ISTA employees were asked by the Management to present a plan on how to expand the gym and the associated costs of doing so. In the near future, a plan will be presented to the president. For now, the plan includes more devices and renovation of washrooms.
 
 No other information has been recovered from our contact with ISTA.
 
@@ -42,16 +160,7 @@ Before a concrete answer to the petitions, they received the order to make a com
 - access to gym. 
 Elke (Head of Campus Service) is now in charge of contacting several other institutions about their offers.
 
-# 2022-03-09
 
-We have analyzed the questionnaire answers.
-They are [available in this document](/documents/SportIST_AllReplies_summary.xhtml) if anyone wants to check them out. 
-
-There were a total of 151 participants.
-
-We sent it to C&M and will ask to be published on the next campus update.
-
----
 
 # 2022-04-15
 
@@ -174,6 +283,17 @@ The following are not exact numbers, but may give an idea of the general directi
 	- Contact administration and ask 
 		- what information out of the surveys is most useful for them?
 		- Are there constrains so we do not ask for impossible things in the questionnaire?
+
+---
+
+# 2022-04-09
+
+We have analyzed the questionnaire answers.
+They are [available in this document](/documents/SportIST_AllReplies_summary.xhtml) if anyone wants to check them out. 
+
+There were a total of 151 participants.
+
+We sent it to C&M and will ask to be published on the next campus update.
 
 ---
 
