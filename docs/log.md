@@ -5,6 +5,28 @@ description: What have we done?
 permalink: /log/
 ---
 
+
+---
+
+# 2023-06-22
+
+A reminder is sent to the dean because no communication has been sent from the management or the dean office about the future expansion of the gym.
+
+---
+
+# 2023-05-17
+
+After conversations with the dean (Eva Benkova), she mentioned that:
+1. Management would like to create new communication channels.
+   - For our case, going to Construction & Maintenance should not be the way
+   - The dean indicated that the creation of this new communication scheme should involve students and postdocs: the people for which the channel is meant for.
+
+2. The gym will be enlarged, only small details remain.
+   - The management is supposed to inform about this.
+   - The dean wants to send an email promptly to the people interested in sports. For this, we provided the relevant mailing lists.
+
+3. All other proposals are postponed for later work.
+
 --- 
 
 # 2023-04-03
@@ -564,6 +586,71 @@ Second meeting.
 
 ---
 
+# 2021-11-12
+
+Invitation e-mail.
+
+## E-mail
+
+### Recipients
+
+chi_gong_exercises@lists.ist.ac.at;
+Climbing@lists.ist.ac.at;
+Cycling@lists.ist.ac.at;
+Fencing@lists.ist.ac.at;
+Fitness@lists.ist.ac.at;
+Football@lists.ist.ac.at;
+gym@lists.ist.ac.at;
+Pilates@lists.ist.ac.at;
+racquet_sports@lists.ist.ac.at;
+Running@lists.ist.ac.at
+Salsa@lists.ist.ac.at;
+quash@lists.ist.ac.at;
+Tablesoccer@lists.ist.ac.at;
+tabletennis@lists.ist.ac.at;
+Tangoargentino@lists.ist.ac.at;
+tennis@lists.ist.ac.at;
+Ultimate-Frisbee@lists.ist.ac.at;
+Volleyball@lists.ist.ac.at;
+Yoga@lists.ist.ac.at;
+
+### Message
+
+Dear athletes of IST,
+
+we (Raimundo Julian Saona Urmeneta, Nikola Zarevski and myself) have set
+up a working group in which we want to "plan the future of sports at
+IST". In particular, we want to collect, discuss, summarize and most
+importantly vocalize the opinions of IST employees regarding the
+improvement of the sports facilities on campus. We are interested in
+suggestions either regarding our current facilities or the planning of
+new ones that could be installed in the course of further development of
+the campus.
+
+Our current plan of action is to
+
+1. collect improvement and planning suggestions from all interested
+employees in an online survey,
+
+2. evaluate the wider support for and perceived importance of each
+suggestion in a follow up online poll,
+
+3. compile the poll results into a formal proposal that we will present
+to the Construction & Maintenance division.
+
+If you are interested in orchestrating this process together with us,
+write me a mail and/or come to our next meeting on Thursday, 18th of
+November at 1700 in the Error Bar.
+
+If you would just like to suggest an improvement, please wait until we
+have set up the first online survey. We will send a mail to all
+employees once this is in place.
+
+Best,
+
+Nick
+
+
 # 2021-11-11
 
 First meeting.
@@ -605,7 +692,8 @@ First meeting.
 
 ---
 
-# 2011-11-4
+
+# 2021-11-4
 
 Suggestions for the questionnaire
 
