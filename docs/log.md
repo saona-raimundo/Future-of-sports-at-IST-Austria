@@ -5,6 +5,11 @@ description: What have we done?
 permalink: /log/
 ---
 
+---
+
+# 2023-07-18
+
+After no answer, a second reminder is sent to the dean because no communication has been sent from the management or the dean office about the future expansion of the gym.
 
 ---
 
