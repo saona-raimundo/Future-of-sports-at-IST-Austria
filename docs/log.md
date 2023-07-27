@@ -7,6 +7,24 @@ permalink: /log/
 
 ---
 
+# 2023-07-27
+
+We got an official campus-wide annoucement! It appears in the [July 2023 campus update](https://wiki.ist.ac.at/images/e/e8/CampusUpdate_20230727.pdf).
+
+![Campus update notice of gym expansion](/images/2023-07-27-campus_update_notice.png)
+
+It says the following.
+
+	The Future of Leisure & Sports Facilities at ISTA
+	
+	A survey a few months ago indicated that an improvement to the gym on campus was desired by many members of the ISTA community. The planning for a better gym has begun and aims to result in a significant improvement in training facilities on campus.
+	
+	The process of drafting a comprehensive campus development concept to address these needs has been initiated. Regarding the gym upgrade, the budget has already been approved for 2023, and the specific schedule for implementation will be finalized once the contractors have submitted their bids, which is expected by the end of August.
+	
+
+
+---
+
 # 2023-07-18
 
 After no answer, a second reminder is sent to the dean because no communication has been sent from the management or the dean office about the future expansion of the gym.
