@@ -7,6 +7,21 @@ permalink: /log/
 
 ---
 
+# 2023-11-11
+
+We got an answer from the dean. 
+Management has a meeting on Thursday 2023-11-16, where the dean will bring up the issue.
+
+---
+
+# 2023-11-02
+
+A reminder was sent to the dean where we expressed our fustration by the lack of news with either sports or the new communication channel that is supposed to be created.
+Moreover, we expressed that there is a group of volleyball enthusiasts that would like to train indoors.
+We requested help from ISTA to arrange this.
+
+---
+
 # 2023-07-27
 
 We got an official campus-wide annoucement! It appears in the [July 2023 campus update](https://wiki.ist.ac.at/images/e/e8/CampusUpdate_20230727.pdf).
@@ -20,7 +35,6 @@ It says the following.
 	A survey a few months ago indicated that an improvement to the gym on campus was desired by many members of the ISTA community. The planning for a better gym has begun and aims to result in a significant improvement in training facilities on campus.
 	
 	The process of drafting a comprehensive campus development concept to address these needs has been initiated. Regarding the gym upgrade, the budget has already been approved for 2023, and the specific schedule for implementation will be finalized once the contractors have submitted their bids, which is expected by the end of August.
-	
 
 
 ---
