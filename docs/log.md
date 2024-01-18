@@ -7,6 +7,16 @@ permalink: /log/
 
 ---
 
+# 2024-01-18
+
+We got no answer from Management.
+It is clear that communication channels are insufficient for sport facilities planning (and other topics at ISTA). 
+That is why, Management has mentioned the development of a new communication channel. 
+It is supposedly being developed. 
+Today we asked the dean about its status and how or when we can get involved.
+
+---
+
 # 2023-11-11
 
 We got an answer from the dean. 
