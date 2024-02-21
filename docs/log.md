@@ -5,6 +5,11 @@ description: What have we done?
 permalink: /log/
 ---
 
+# 2024-02-21
+
+After a month, we insist on asking the dean for the development of a new communication channel. 
+There has been no news about it so far.
+
 ---
 
 # 2024-01-18
