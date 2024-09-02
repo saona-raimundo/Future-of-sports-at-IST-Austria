@@ -5,6 +5,40 @@ description: What have we done?
 permalink: /log/
 ---
 
+# 2024-09-02
+
+We basically gave up on conversations with either Management or the dean.
+There has been no answer.
+Out of everything we could have offered and we asked, there was never a proper conversation and they only have worked on the "gym expansion" (which consists in using the storage room that was adjacent to it).
+We feel unheard.
+
+Today, there was a new email: updates on the plan for the new buildings.
+We know that these buildings could have hosted a multi-sport court... but there is no sign of it.
+The ["master plan" is publicly available](https://construction.pages.ista.ac.at/masterplan-2036/). 
+
+We contacted the dean with the following message.
+```
+Dear Eva,
+
+I am happy that the construction of new buildings in ISTA is going forward.
+I am also happy that there is some work on the indoor gym going on.
+But I am not so happy about how our conversations have turned into a one-sided monolog.
+
+I have asked many times about the "communication channel", official channels to talk about the needs of ISTA employees, and the plans for sports at ISTA.
+At some point, the new buildings could have hosted a multi-sport court, but there is no sign of this now.
+There was never a proper conversation, nor did we feel heard from management on the topic of sports.
+
+I keep writing to you as you are the only contact that officially I should use.
+
+
+Hope you have a good week,
+Raimundo Saona.
+```
+
+This might be our last email to management at ISTA.
+
+---
+
 # 2024-02-21
 
 After a month, we insist on asking the dean for the development of a new communication channel. 
