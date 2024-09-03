@@ -5,6 +5,16 @@ description: What have we done?
 permalink: /log/
 ---
 
+# 2024-09-03
+
+We got an answer from the dean!
+They say:
+- The communication/feedback channels have been brought up multiple times, but there has been no positive answer from the Management.
+- The topic will be proposed to the communication and events office.
+- Regarding the sports facility and the new buildings, they will ask if feedback and suggestions are still possible.
+
+--- 
+
 # 2024-09-02
 
 We basically gave up on conversations with either Management or the dean.
